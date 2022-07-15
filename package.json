@@ -1,0 +1,14 @@
+{
+  "name": "express_posts",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Trusty Cole",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
